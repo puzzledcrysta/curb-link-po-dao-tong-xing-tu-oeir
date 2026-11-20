@@ -1,0 +1,22 @@
+:root {
+  --bg: #edf6ee;
+  --surface: #fbfef8;
+  --rail: #17372d;
+  --rail-ink: #f7f8fa;
+  --ink: #14382a;
+  --muted: #496658;
+  --line: #b6cec3;
+  --line-strong: #78b097;
+  --accent: #1b8d5a;
+  --accent-ink: #ffffff;
+  --bad: #893927;
+  --ok: #245835;
+  --radius: 14px;
+  --pad: 15px;
+  --row: 10px;
+  --gap: 15px;
+  --rail-width: 165px;
+  --font-ui: system-ui, "PingFang SC", sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Consolas, monospace;
+  --font-doc: "Songti SC", "Noto Serif CJK SC", Georgia, serif;
+}
